@@ -1,2 +1,2 @@
 # esolangs
-Various examples and implementations of esoteric programming languages
+Various examples and implementations of ~~useless~~beautiful programming languages
